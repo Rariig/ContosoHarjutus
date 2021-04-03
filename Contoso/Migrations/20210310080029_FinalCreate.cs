@@ -9,6 +9,7 @@ namespace Contoso.Migrations
                                                                       // andmebaas selle põhjal loomata, et personi tabel tuleks studenti
                                                                       // ja instructiori asemele
                                                                       // andmebaas on nüüd loodud, inheritance tegemata personiteks
+        // test
         
         {
             migrationBuilder.CreateTable(
